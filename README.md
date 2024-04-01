@@ -6,13 +6,11 @@ This project presents a simple HTML and CSS layout for displaying a social profi
 
 This project consists of an HTML file (index.html) and a CSS file (style.css). The HTML file defines the structure of the social profile page, including profile picture, name, location, profession, and links to social media profiles. The CSS file styles the HTML elements to enhance visual presentation and responsiveness.
 
-## Preview
-
 ## Installation
 
 To run this project locally, simply download or clone this repository to your local machine:
 
-git clone https://github.com/yourusername/social-profile-links.git
+''''git clone https://github.com/yourusername/social-profile-links.git'''
 
 
 ## Usage
