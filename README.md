@@ -1,4 +1,4 @@
-# Social Profile Links
+# Social Links Profile
 
 This project presents a simple HTML and CSS layout for displaying a social profile with links to various social media platforms.
 
