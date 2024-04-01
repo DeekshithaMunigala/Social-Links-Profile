@@ -10,7 +10,7 @@ This project consists of an HTML file (index.html) and a CSS file (style.css). T
 
 To run this project locally, simply download or clone this repository to your local machine:
 
-''''git clone https://github.com/yourusername/social-profile-links.git'''
+'''git clone https://github.com/yourusername/social-profile-links.git'''
 
 
 ## Usage
